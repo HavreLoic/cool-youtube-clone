@@ -16,7 +16,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
     { name: 'New', icon: <HomeIcon />, },
-    // { name: 'JS Mastery', icon: <CodeIcon />, },
+    { name: 'JS Mastery', icon: <CodeIcon />, },
     { name: 'Coding', icon: <CodeIcon />, },
     { name: 'ReactJS', icon: <CodeIcon />, },
     { name: 'NextJS', icon: <CodeIcon />, },
@@ -34,9 +34,9 @@ export const categories = [
     { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://yt3.googleusercontent.com/ytc/AL5GRJUaHBzAJ74Nx53HlWq1jFnvYZ_tdxJmM-yWe14dVQ=s88-c-k-c0x00ffffff-no-rj';
+export const demoThumbnailUrl = 'https://scontent-lhr8-2.cdninstagram.com/v/t51.288…_NWqGY3UlgotcZUo_yyJxA&oe=63E34856&_nc_sid=4f375e';
 export const demoChannelUrl = 'https://www.youtube.com/@ChispaMotivation';
 export const demoVideoUrl = 'https://www.youtube.com/watch?v=4gi9y3sTrXE';
 export const demoChannelTitle = 'Chispa Motivation ';
 export const demoVideoTitle = 'Mamba Mentality - Kobe Bryant (Motivational Video)';
-export const demoProfilePicture = 'https://yt3.googleusercontent.com/ytc/AL5GRJUaHBzAJ74Nx53HlWq1jFnvYZ_tdxJmM-yWe14dVQ=s88-c-k-c0x00ffffff-no-rj'
+export const demoProfilePicture = 'https://scontent-lhr8-2.cdninstagram.com/v/t51.288…_NWqGY3UlgotcZUo_yyJxA&oe=63E34856&_nc_sid=4f375e'
